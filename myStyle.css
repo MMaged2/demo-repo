@@ -1,0 +1,11 @@
+div {
+    display: inline-block;
+    }
+ .header {
+  overflow: hidden;
+  background-color: #424141;
+  padding: 0px 5px;
+  width:100%;
+  color: white;
+  height: 35px;
+ }
